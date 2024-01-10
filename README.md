@@ -1,6 +1,5 @@
 # Spotify_ETL_Data_Analysis
 
-## Key Skills Used -
 Python | ETL | Process Data Extraction | Data Transformation | Data Loading | Spotify API | Data Cleaning | Data Shaping | Data Aggregation | Structured Dataset | Data Analysis | Matplotlib | Seaborn | Data Visualization | Top Tracks | Top Artists | Audio Features | Danceability | Energy | Liveness | Acousticness | Tempo | User Preferences | Music Trends | Popular Tracks | Popular Artists | Music Characteristics
 Music Enthusiasts | Industry Professionals | Pattern Analysis | Comprehensive Understanding | Insights Generation | Music Landscape
 
